@@ -1,0 +1,11 @@
+.bg-tweet-blue {
+    background-color: #1da1f2;
+    font-family: monospace;
+  }
+  .text-tweet-blue {
+    color: #1da1f2;
+    font-family: "montserrat", sans-serif;
+  }
+  .hover:text-tweet-blue:hover {
+    color: #1da1f2;
+  }
